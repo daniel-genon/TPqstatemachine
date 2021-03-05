@@ -1,0 +1,2 @@
+# TPqstatemachine
+Logiciel support de cours sur la programmation de base de la bibliothèque QStateMachine
