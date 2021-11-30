@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>general/nouveau.png</file>
+        <file>general/quitter.png</file>
+        <file>motif/main1.png</file>
+        <file>motif/fond1.png</file>
+        <file>general/configuration.png</file>
+        <file>general/apropos.png</file>
+        <file>motif/joueur.png</file>
+        <file>motif/predateur.png</file>
+        <file>motif/projectile.png</file>
+        <file>motif/fond2.png</file>
+    </qresource>
+</RCC>
